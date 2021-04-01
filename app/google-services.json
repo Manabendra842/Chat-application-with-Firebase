@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "303091635329",
+    "firebase_url": "https://flare-777d9.firebaseio.com",
+    "project_id": "flare-777d9",
+    "storage_bucket": "flare-777d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303091635329:android:ef3143cb37cb61f6b16980",
+        "android_client_info": {
+          "package_name": "com.example.flarechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303091635329-5tc8422h4j73o63j5iudhbmh8s3f830o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flarechat",
+            "certificate_hash": "6347857d10d743b4f0c1cedbcc8c5a755d0101a5"
+          }
+        },
+        {
+          "client_id": "303091635329-rtdehpopfk2chrnapm4mvo080cbd64k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI9dMz0ma4fs8KzF27-Kz8j3L4C0_n914"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303091635329-rtdehpopfk2chrnapm4mvo080cbd64k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
